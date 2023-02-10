@@ -1367,6 +1367,7 @@ button {
     padding-right: 30%;
     font-weight: 500;
     margin-bottom: 45px;
+    color: var(--heading);
 }
 .hero-banner-v1 .bg-one,
 .hero-banner-v1 .bg-two{
@@ -2119,7 +2120,7 @@ button {
     opacity: 1;
 }
 .portfolio-style-three .img-holder img{
-    border-radius: 7px;
+    border-radius: 8px;
 }
 .portfolio-style-three .portfolio-hover{
     position: absolute;
@@ -2127,7 +2128,7 @@ button {
     left: 0;
     background-color: #fff;
     max-width: 280px;
-    border-radius: 0px 7px 0px 0px;
+    border-radius: 0px 8px 0px 0px;
     padding: 16px 30px 18px;
     visibility: hidden;
     opacity: 0;
@@ -2278,7 +2279,7 @@ button {
 
 .counter-area-v2 .counter-item{
     padding: 60px 45px 53px;
-    border-radius: 7px;
+    border-radius: 8px;
     background-color: transparent;
     -webkit-transition: all .3s;
     -o-transition: all .3s;
@@ -2315,7 +2316,7 @@ button {
 }
 .counter-area-v3 .counter-item{
     padding: 50px 30px 40px;
-    border-radius: 7px;
+    border-radius: 8px;
     background-color: #fff;
     border: 1px solid transparent;
     box-shadow: 0px 10px 60px 0px rgba(89, 86, 233, 0.2);
@@ -2384,7 +2385,7 @@ button {
     border-radius: 110px;
 }
 .testimonial-area-v1 .img-holder img{
-    border-radius: 217px;
+    border-radius: 220px;
 }
 .testimonial-area-v1 .testimonial-item .testimonial-content i{
     font-size: 55px;
@@ -2454,7 +2455,7 @@ button {
 }
 .testimonial-area-v2 .testimonial-item .testimonial-content .author-title:before{
     position: absolute;
-    top: 17px;
+    top: 18px;
     left: 0;
     content: '';
     width: 50px;
@@ -2509,7 +2510,7 @@ button {
 }
 .testimonial-area-v3 .testimonial-item{
     background-color: #fff;
-    border-radius: 7px;
+    border-radius: 8px;
     padding: 50px 50px 45px;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -2570,7 +2571,7 @@ button {
 }
 .testimonial-area-v4 .testimonial-item{
     padding: 60px 50px;
-    border-radius: 7px;
+    border-radius: 8px;
     border: 5px solid rgba(89, 86, 233, .102);
 }
 .testimonial-area-v4 .testimonial-item .testimonial-content p{
@@ -2736,7 +2737,7 @@ button {
  .pricing-item{
     position: relative;
     z-index: 1;
-    border-radius: 7px;
+    border-radius: 8px;
 }
 .pricing-item-one{
     padding: 32px 50px 35px;
@@ -2761,7 +2762,7 @@ button {
     display: inline-flex;
     background-color: #ffcd3e;
     position: absolute;
-    top: 37px;
+    top: 40px;
     right: -10px;
     -webkit-transform: rotate(90deg);
         -ms-transform: rotate(90deg);
@@ -2864,7 +2865,7 @@ button {
     display: inline-flex;
     border-bottom: none;
     background-color: #2c2b77;
-    border-radius: 7px;
+    border-radius: 8px;
     line-height: 1;
     margin-bottom: 60px;
 }
@@ -3001,6 +3002,11 @@ button {
 }
 .team-area-v1 .team-item .text p.position{
     font-weight: 500;
+}
+.team-area-v1 .team-item .text a.position{
+    font-weight: 100;
+    font-size: medium;
+    color: #BCC2CE;
 }
 
 /* Team Area v2 css */
@@ -3189,7 +3195,7 @@ button {
     top: 110px;
 }
 .team-details-section .img-holder img{
-    border-radius: 7px;;
+    border-radius: 8px;;
 }
 .team-details-section .text-wrapper{
     padding-left: 70px;
@@ -3671,7 +3677,7 @@ button {
 }
 .blog-area-v1 .blog-post-item .entry-content{
     padding: 40px;
-    border-radius: 7px;
+    border-radius: 8px;
     border: 1px solid rgba(88, 86, 233, 0.149);
     -webkit-transition: all .3s;
     -o-transition: all .3s;
@@ -3758,7 +3764,7 @@ button {
 /* Blog Area V3 */
 
 .blog-area-v3 .blog-post-item .post-thumbnail img{
-    border-radius: 7px 7px 0 0;
+    border-radius: 8px 8px 0 0;
 }
 .blog-area-v3 .blog-post-item .entry-content{
     padding: 32px 35px 23px;
@@ -3816,13 +3822,13 @@ button {
 /* Blog Standard Section */
 
 .blog-standard-post-item .post-thumbnail img{
-    border-radius: 7px;
+    border-radius: 8px;
     width: 100%;
 }
 .blog-standard-post-item .entry-content{
     position: relative;
     background-color: #fff;
-    border-radius: 7px;
+    border-radius: 8px;
     -webkit-box-shadow: 0px 10px 60px 0px rgba(89, 86, 233, 0.1);
             box-shadow: 0px 10px 60px 0px rgba(89, 86, 233, 0.1);
     width: 85%;
@@ -3873,7 +3879,7 @@ button {
     left: 0;
     width: 100%;
     height: 100%;
-    border-radius: 7px;
+    border-radius: 8px;
     background: -webkit-gradient( linear, left bottom, left top, from(rgb(0,2,72)), color-stop(0%, rgb(0,2,72)), to(rgba(0,2,72,0)));
     background: -o-linear-gradient( bottom, rgb(0,2,72) 0%, rgb(0,2,72) 0%, rgba(0,2,72,0) 100%);
     background: linear-gradient( 0deg, rgb(0,2,72) 0%, rgb(0,2,72) 0%, rgba(0,2,72,0) 100%);
@@ -3904,7 +3910,7 @@ button {
 
 
 .blog-details-wrapper .blog-post-item .post-thumbnail img{
-    border-radius: 7px;
+    border-radius: 8px;
 }
 .blog-details-wrapper .blog-post-item .entry-content .post-meta ul li{
     margin-right: 20px;
@@ -3928,7 +3934,7 @@ button {
     margin-bottom: 27px;
 }
 .blog-details-wrapper .blog-post-item .entry-content .content-img img {
-    border-radius: 7px;
+    border-radius: 8px;
 }
 .blog-details-wrapper .blog-post-item .entry-content ul.list-style-one li{
     margin-bottom: 12px;
@@ -4206,7 +4212,7 @@ button {
     z-index: 1;
     padding: 40px 20px;
     position: relative;
-    border-radius: 7px;
+    border-radius: 8px;
 }
 .sidebar-widget-area .widget.contact-info-widget .contact-info-box:after{
     position: absolute;
@@ -4357,7 +4363,7 @@ button {
     z-index: 1;
     background-color: #fff;
     border: 1px solid rgba(89, 86, 232, 0.149);
-    border-radius: 7px;
+    border-radius: 8px;
     padding: 40px 35px 30px;
     -webkit-transition: all .3s;
     -o-transition: all .3s;
@@ -4414,7 +4420,7 @@ button {
 }
 .information-style-two{
     border: 1px solid rgba(89, 86, 232, 0.149);
-    border-radius: 7px;
+    border-radius: 8px;
     padding: 40px 35px 30px;
 }
 .information-style-two .icon{
@@ -4423,7 +4429,7 @@ button {
             flex: 0 0 60px;
     max-width: 60px;
     height: 60px;
-    border-radius: 7px;
+    border-radius: 8px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -4675,7 +4681,7 @@ button {
     padding: 0 30px;
     height: 65px;
     color: var(--heading);
-    border-radius: 7px;
+    border-radius: 8px;
 }
 .footer-widget .widget.newsletter-widget  .newsletter-content form .form_control::-webkit-input-placeholder{
     color: var(--heading);
