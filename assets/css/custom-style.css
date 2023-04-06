@@ -1,0 +1,29 @@
+/* Service Area */
+
+.icon-mission {
+    background-image: url('../images//service/misi.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 75px;
+    height: 74.91px;
+}
+.icon-function {
+    background-image: url('../images//service/fungsi.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 75px;
+    height: 74.91px;
+}
+.icon-goals {
+    background-image: url('../images//service/tujuan.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 75px;
+    height: 74.91px;
+}
+
+
+/* Statistics Area */
