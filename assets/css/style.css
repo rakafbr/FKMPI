@@ -969,6 +969,7 @@ button {
 }
 .header-navigation .main-menu ul li .sub-menu li:hover > a {
     color: var(--dark-green);
+    text-decoration: underline;
 }
 .header-navigation .main-menu ul li:hover.has-children > a:before {
     color: var(--dark-green);
