@@ -350,7 +350,7 @@ button {
 	font-family: var(--dmsans);
 	text-transform: capitalize;
 	font-weight: 700;
-	border-radius: 8px;
+	border-radius: 12px;
     -webkit-transition: all .3s;
     -o-transition: all .3s;
     transition: all .3s;
@@ -1187,7 +1187,7 @@ button {
 .header-right-nav ul li.bar-item a{
     width: 45px;
     height: 45px;
-    border-radius: 8px;
+    border-radius: 12px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -1748,7 +1748,7 @@ button {
 }
 .item-box{
     padding: 30px 25px 20px;
-    border-radius: 8px;
+    border-radius: 12px;
     border: 1px solid rgba(88, 86, 233, 0.10);
     transition: all .3s;
 }
@@ -1813,7 +1813,7 @@ button {
     position: relative;
     z-index: 1;
     padding: 50px 55px 40px;
-    border-radius: 8px;
+    border-radius: 12px;
     background-color: #fff;
     border: 1px solid rgba(88, 86, 233, 0.2);
     -webkit-transition: all .3s;
@@ -1904,7 +1904,7 @@ button {
     z-index: 2;
     margin-top: -150px;
     padding: 80px 90px 50px;
-    border-radius: 8px;
+    border-radius: 12px;
 }
 .service-style-three:hover .text .btn-link-two:before{
     background-color: #fff;
@@ -2123,7 +2123,7 @@ button {
     opacity: 1;
 }
 .portfolio-style-three .img-holder img{
-    border-radius: 8px;
+    border-radius: 12px;
 }
 .portfolio-style-three .portfolio-hover{
     position: absolute;
@@ -2237,6 +2237,7 @@ button {
 }
 .counter-area-v1 .counter-item{
     padding: 65px 50px;
+    border-radius: 12px;
     background-color: #fff;
     -webkit-box-shadow: 0px 10px 60px 0px rgba(76, 76, 76, 0.1);
             box-shadow: 0px 10px 60px 0px rgba(76, 76, 76, 0.1);
@@ -2282,7 +2283,7 @@ button {
 
 .counter-area-v2 .counter-item{
     padding: 60px 45px 53px;
-    border-radius: 8px;
+    border-radius: 12px;
     background-color: transparent;
     -webkit-transition: all .3s;
     -o-transition: all .3s;
@@ -2319,7 +2320,7 @@ button {
 }
 .counter-area-v3 .counter-item{
     padding: 50px 30px 40px;
-    border-radius: 8px;
+    border-radius: 12px;
     background-color: #fff;
     border: 1px solid transparent;
     box-shadow: 0px 10px 60px 0px rgba(89, 86, 233, 0.2);
@@ -2513,7 +2514,7 @@ button {
 }
 .testimonial-area-v3 .testimonial-item{
     background-color: #fff;
-    border-radius: 8px;
+    border-radius: 12px;
     padding: 50px 50px 45px;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -2574,7 +2575,7 @@ button {
 }
 .testimonial-area-v4 .testimonial-item{
     padding: 60px 50px;
-    border-radius: 8px;
+    border-radius: 12px;
     border: 5px solid rgba(89, 86, 233, .102);
 }
 .testimonial-area-v4 .testimonial-item .testimonial-content p{
@@ -2742,7 +2743,7 @@ button {
  .pricing-item{
     position: relative;
     z-index: 1;
-    border-radius: 8px;
+    border-radius: 12px;
 }
 .pricing-item-one{
     padding: 32px 50px 35px;
@@ -2870,7 +2871,7 @@ button {
     display: inline-flex;
     border-bottom: none;
     background-color: #2c2b77;
-    border-radius: 8px;
+    border-radius: 12px;
     line-height: 1;
     margin-bottom: 60px;
 }
@@ -3200,7 +3201,7 @@ button {
     top: 110px;
 }
 .team-details-section .img-holder img{
-    border-radius: 8px;;
+    border-radius: 12px;;
 }
 .team-details-section .text-wrapper{
     padding-left: 70px;
@@ -3682,7 +3683,7 @@ button {
 }
 .blog-area-v1 .blog-post-item .entry-content{
     padding: 40px;
-    border-radius: 8px;
+    border-radius: 12px;
     border: 1px solid rgba(88, 86, 233, 0.149);
     -webkit-transition: all .3s;
     -o-transition: all .3s;
@@ -3827,13 +3828,13 @@ button {
 /* Blog Standard Section */
 
 .blog-standard-post-item .post-thumbnail img{
-    border-radius: 8px;
+    border-radius: 12px;
     width: 100%;
 }
 .blog-standard-post-item .entry-content{
     position: relative;
     background-color: #fff;
-    border-radius: 8px;
+    border-radius: 12px;
     -webkit-box-shadow: 0px 10px 60px 0px rgba(89, 86, 233, 0.1);
             box-shadow: 0px 10px 60px 0px rgba(89, 86, 233, 0.1);
     width: 85%;
@@ -3884,7 +3885,7 @@ button {
     left: 0;
     width: 100%;
     height: 100%;
-    border-radius: 8px;
+    border-radius: 12px;
     background: -webkit-gradient( linear, left bottom, left top, from(rgb(0,2,72)), color-stop(0%, rgb(0,2,72)), to(rgba(0,2,72,0)));
     background: -o-linear-gradient( bottom, rgb(0,2,72) 0%, rgb(0,2,72) 0%, rgba(0,2,72,0) 100%);
     background: linear-gradient( 0deg, rgb(0,2,72) 0%, rgb(0,2,72) 0%, rgba(0,2,72,0) 100%);
@@ -3915,7 +3916,7 @@ button {
 
 
 .blog-details-wrapper .blog-post-item .post-thumbnail img{
-    border-radius: 8px;
+    border-radius: 12px;
 }
 .blog-details-wrapper .blog-post-item .entry-content .post-meta ul li{
     margin-right: 20px;
@@ -3939,7 +3940,7 @@ button {
     margin-bottom: 27px;
 }
 .blog-details-wrapper .blog-post-item .entry-content .content-img img {
-    border-radius: 8px;
+    border-radius: 12px;
 }
 .blog-details-wrapper .blog-post-item .entry-content ul.list-style-one li{
     margin-bottom: 12px;
@@ -4217,7 +4218,7 @@ button {
     z-index: 1;
     padding: 40px 20px;
     position: relative;
-    border-radius: 8px;
+    border-radius: 12px;
 }
 .sidebar-widget-area .widget.contact-info-widget .contact-info-box:after{
     position: absolute;
@@ -4318,7 +4319,7 @@ button {
     padding: 5px 12px;
     background-color: rgba(89, 86, 233, 0.15);
     color: var(--heading);
-    border-radius: 8px;
+    border-radius: 12px;
     font-size: 15px;
     font-weight: 700;
     margin-right: 5px;
@@ -4425,7 +4426,7 @@ button {
 }
 .information-style-two{
     border: 1px solid rgba(89, 86, 232, 0.149);
-    border-radius: 8px;
+    border-radius: 12px;
     padding: 40px 35px 30px;
 }
 .information-style-two .icon{
@@ -4434,7 +4435,7 @@ button {
             flex: 0 0 60px;
     max-width: 60px;
     height: 60px;
-    border-radius: 8px;
+    border-radius: 12px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -4479,7 +4480,7 @@ button {
 .contact-form form .form_control{
     margin-bottom: 30px;
     height: 60px;
-    border-radius: 8px;
+    border-radius: 12px;
     padding: 0 30px;
     font-weight: 700;
     color: var(--heading);
@@ -4687,7 +4688,7 @@ button {
     padding: 0 30px;
     height: 65px;
     color: var(--heading);
-    border-radius: 8px;
+    border-radius: 12px;
 }
 .footer-widget .widget.newsletter-widget  .newsletter-content form .form_control::-webkit-input-placeholder{
     color: var(--heading);
